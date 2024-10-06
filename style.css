@@ -82,7 +82,8 @@ footer{
 
 @media (max-width:600px){
     .bkgrnd{
-       background-size: 970px;
+        background-size:cover;
+        background-position:left;
     }
 }
 
