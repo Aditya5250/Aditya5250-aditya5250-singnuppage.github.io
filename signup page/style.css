@@ -17,7 +17,7 @@ body{
 
 }
 .inptbkgrnd{
-    background: url(./assets/pok.jpg);
+    background: url(assets/pok.jpg);
     background-size: cover;
     background-position: center;
 }
