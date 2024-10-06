@@ -10,14 +10,14 @@ body{
     height: 100vh;
     justify-content: center;
     align-items: center;
-    background-image: image-set(url("../assets/736462.png"));
+    background-image: image-set(url("736462.png"));
     background-size:cover;
     background-position:center;
     filter:opacity(60%);
 
 }
 .inptbkgrnd{
-    background: url(../assets/pok.jpg);
+    background: url(pok.jpg);
     background-size: cover;
     background-position: center;
 }
